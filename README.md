@@ -7,7 +7,7 @@
 ## Tools and Skills
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - jQuery
 - The DOM
 - Third-Party APIs
